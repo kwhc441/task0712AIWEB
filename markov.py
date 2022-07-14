@@ -1,3 +1,4 @@
+#この行をついかぁぁぁぁしてからcomit
 import MeCab
 import os,json,random
 
